@@ -1,0 +1,13 @@
+#INTRODUCTION AND PROBLEM
+
+The purpose of this Project is to help a young couple in exploring better facilities around their future neighborhood. It will help them make a smart and efficient decision on selecting the best neighborhood out of numbers of other neighborhoods in Toronto.
+With the current covid situation, lots of people experience changes in their life both personally and professionaly. Some people might loose their job and need to find a new one even if it means they need to relocate. This is what happen to our your couple who needs to find the best housing possible while saving money on transport, food, and rent.
+We will do a comparative analysis of the best neighborhoods based on the housing price, school location, supermarket location and type, and facilities around in order to find the best value possible for our young couple
+
+#DATA
+
+In order to solve our problem, we will use data from different sources:
+
+        i. Postal codes of Canada. This Wikipedia page was used in order to scrap the postal codes of the whole city of Toronto.
+        ii. Geospatial_Coordinates.csv was provided from Applied Data Science Capstone course from IBM in coursera which contains the geospatial coordinates of the different regions of Toronto.
+        iii. Venue’s data extracted using an API call from Foursquare
